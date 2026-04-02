@@ -1,3 +1,5 @@
+<div align="center">This is a port of [RienNeVaPlus/human-id](https://github.com/RienNeVaPlus/human-id) from JavaScript to Go.</div>
+
 <h3 align="center">💃🆔</h3>
 
 ## Human-Readable Identifiers
