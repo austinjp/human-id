@@ -1,4 +1,10 @@
-<div align="center">This is a port of [RienNeVaPlus/human-id](https://github.com/RienNeVaPlus/human-id) from JavaScript to Go.</div>
+<hr>
+<div align="center">
+
+This is a port of [the original](https://github.com/RienNeVaPlus/human-id) to Go.
+
+</div>
+<hr>
 
 <h3 align="center">💃🆔</h3>
 
