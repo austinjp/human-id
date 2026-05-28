@@ -26,6 +26,8 @@ The result is concatenated of `adjective + adjective + noun + verb + adverb` res
 
 ## Usage
 
+### As a Go package
+
 ```bash
 go get github.com/austinjp/niceid
 ```
@@ -56,3 +58,12 @@ func main() {
 }
 
 ```
+
+### As a CLI tool
+
+```bash
+go install github.com/austinjp/niceid/cmd/niceid@latest
+niceid -n 5
+```
+
+
